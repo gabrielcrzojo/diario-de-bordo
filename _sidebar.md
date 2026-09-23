@@ -5,7 +5,7 @@
 - [GitHub Pages no projeto da disciplina](docs/github-pages.md)
 - Minhas entradas
   - [Formação de equipe](blog/2026-09-19-formacao-equipe.md)
-  - [Pre-release-1](blog/2026-09-22-pre-realese-1.md)
+  - [Pre release 1](blog/2026-09-22-pre-realese-1.md)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
